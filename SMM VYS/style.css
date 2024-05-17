@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
+
 .txtc {
     text-align: center;
 }
@@ -7,6 +8,7 @@
 .pd {
     margin-top: 30px;
 }
+
 
 .bt1 {
     border-width: 0px;
@@ -70,6 +72,17 @@
     color: rgb(29, 185, 84);
 }
 
+.bgspo {
+    background-color: rgb(29, 185, 84);
+}
+
 .li {
     color: #0077b5;
+}
+
+
+.ft {
+    background-color: #f8f9fa;
+    margin-bottom: 0px;
+
 }
